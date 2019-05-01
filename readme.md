@@ -19,3 +19,5 @@
 3. 綠燈恆亮
 4. MCO2 輸出
 5. 附圖
+
+![image](https://github.com/MingChang0329/ESEmbedded_Midterm/blob/master/螢幕快照%202019-05-01%20下午5.01.44.png)
